@@ -1,0 +1,15 @@
+.a{
+    border: 6px rgb(24, 174, 4) double;
+    text-align: center;
+   
+ 
+}
+
+hr{
+    font-size: xx-small;
+    border: 2px red solid;
+}
+table{
+    display: inline-table;
+   
+}
